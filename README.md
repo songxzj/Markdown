@@ -6,7 +6,7 @@
 4. 毕业学校：[浙江中医药大学](http://www.zcmu.edu.cn/default.html)
 5. 专业：医学信息工程
 6.  github账号：songxu2016
-7.  email：songxu2016@qq.com
+7.  email：songxu2016@foxmail.com
 
 ---
 
