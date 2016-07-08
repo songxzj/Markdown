@@ -26,7 +26,7 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 | Strikethrough | `~~ ~~` |  | `~~This was mistaken text~~` | ~~This was mistaken text~~ |
 | Bold and italic | `** **` or `_ _` |  | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
 
-**Node: At least three dashes, `:---` means left-aligned, `:---:` means centered, `---:` means right-aligned**
+**Node: At least three dashes, `:---` means left-aligned, `:---:` means centered, `---:` means right-aligned.**
 
 
 ## Quoting text  
@@ -67,7 +67,7 @@ git commit
 
 ![](https://help.github.com/assets/images/help/writing/code-block-rendered.png)
 
-**Node: Please remove `\` where you copy this**
+**Node: Please remove `\` where you copy this.**
 
 
 ## Links
@@ -179,8 +179,8 @@ For more information, see Daring Fireball's "[Markdown Syntax](https://daringfir
 
 ## Further reading
 
+\>"[original text](https://help.github.com/articles/basic-writing-and-formatting-syntax/)"  
 \>"[About writing and formatting on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)"  
 \>"[Working with advanced formatting](https://help.github.com/articles/working-with-advanced-formatting/)"  
 \>"[Mastering Markdown](https://guides.github.com/features/mastering-markdown)"  
 \>"[Markdown Tutorial](http://www.markdowntutorial.com/)"  
-\>"[original text](https://help.github.com/articles/basic-writing-and-formatting-syntax/)"  
