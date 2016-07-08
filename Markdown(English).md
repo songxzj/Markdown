@@ -179,7 +179,7 @@ For more information, see Daring Fireball's "[Markdown Syntax](https://daringfir
 
 ## Further reading
 
-\>"[original text](https://help.github.com/articles/basic-writing-and-formatting-syntax/)"  
+\>"[Original text](https://help.github.com/articles/basic-writing-and-formatting-syntax/)"  
 \>"[About writing and formatting on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)"  
 \>"[Working with advanced formatting](https://help.github.com/articles/working-with-advanced-formatting/)"  
 \>"[Mastering Markdown](https://guides.github.com/features/mastering-markdown)"  
