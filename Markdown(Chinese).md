@@ -26,7 +26,7 @@
 | 删除线 | `~~ ~~` |  | `~~This was mistaken text~~` | ~~This was mistaken text~~ |
 | 粗体和斜体 | `** **` 和 `_ _` |  | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
 
-**注： 横线至少三条，`:---` 表示左对齐，`:---:` 表示剧中对齐，`---：`表示右对齐**
+**注： 横线至少三条，`:---` 表示左对齐，`:---:` 表示剧中对齐，`---：`表示右对齐。**
 
 
 ## 引用文本  
@@ -67,7 +67,7 @@ git commit
 
 ![](https://help.github.com/assets/images/help/writing/code-block-rendered.png)
 
-**注意：复制时请把 `\` 去掉**
+**注意：复制时请把 `\` 去掉。**
 
 
 ## 链接
