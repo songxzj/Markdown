@@ -179,8 +179,7 @@ For more information, see Daring Fireball's "[Markdown Syntax](https://daringfir
 ## Further reading
 
 
-[About writing and formatting on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
-
+\> "[About writing and formatting on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)"  
 [Working with advanced formatting](https://help.github.com/articles/working-with-advanced-formatting/)  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown)  
 [Markdown Tutorial](http://www.markdowntutorial.com/)  
