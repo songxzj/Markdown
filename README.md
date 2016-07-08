@@ -1,2 +1,2 @@
 # Markdown
-Markdown 语法详细
+There are two records what about Markdown with Chinese and English.  
