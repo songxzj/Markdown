@@ -20,13 +20,13 @@
 你可以用粗体，斜体，或者删除线来强调文字。
 
 | 样式 | 语法 | 键盘快捷键 | 例子 | 样例 |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | 粗体 | `** **` 或者 `__ __` | command/control + b | `**This is bold text**` | **This is bold text** |
 | 斜体 | `* *` 或者 `_ _` | command/control + i | `*This text is italicized*` | *This text is italicized* |
 | 删除线 | `~~ ~~` |  | `~~This was mistaken text~~` | ~~This was mistaken text~~ |
 | 粗体和斜体 | `** **` 和 `_ _` |  | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
 
-**注： 横线至少三条，`:---` 表示左对齐，`:---:` 表示剧中对齐，`---：`表示右对齐。**
+**注： 横线至少三条，`:---` 表示左对齐，`:---:` 表示居中对齐，`---：`表示右对齐。**
 
 
 ## 引用文本  
